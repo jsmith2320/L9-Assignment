@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+}
+
+p {
+    margin: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table {
+    border: 2px solid navy;
+    
+}
+
+td {
+    padding: 15px;
+}
+
+img {
+    border-width: 20px;
+    padding:  20px;
+}
+
+a:hover {
+    text-decoration:  none;
+    color: red;
+}
+
